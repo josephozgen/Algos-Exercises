@@ -1,0 +1,4 @@
+1.A basic fetch() request will accept a URL parameter, send a request and contain a success
+and failure promise handler function.
+2.JavaScript arrow functions do not have their own "this" context, but use the "this" 
+of the surrounding lexical context.
